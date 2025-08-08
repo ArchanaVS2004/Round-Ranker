@@ -14,28 +14,27 @@
 - Member 2: Abhikrishnan V B - ICCSCEM, Injakundu
 
 ### Project Description
-The Chappathi Roundness Meter analyzes an uploaded photo of a chappathi to measure how round it is using image processing. It then gives fun, culturally relevant comments in Malayalam based on the roundness score. This project combines technology with local flavor to entertain and help users improve their cooking skills.
+The Chappathi Roundness Meter analyzes an uploaded photo of a chappathi to measure how round it is using image processing. It then gives fun, culturally relevant comments in Malayalam based on the roundness score. This project combines technology with local flavor to entertain users .
 
 
 
 ### The Problem
-Making perfectly round chappathis is a skill that requires practice. Beginners often struggle with uneven shapes, affecting not only the appearance but also the cooking consistency. Currently, there is no automated, fun, and interactive way to measure the roundness of chappathis.
+Making perfectly round chappathis is a skill that requires practice. Beginners often struggle with uneven shapes, affecting not only the appearance but also the cooking consistency. 
 
 ### The Solution
-We propose a computer vision-based tool that measures roundness uses image processing to analyze the chappathi’s shape and calculates its circularity and provides gives humorous comments in Malayalam
+We propose a website that measures roundness uses image processing to analyze the chappathi’s shape and calculates its circularity and provides humorous comments in Malayalam.
 
 ## Technical Details
-### Technologies/Components Used
+### Technologies Used
 For Software:
 - Python,html,css.
 - Javascript
 - Flask
 - Opencv
 - VSCode
-- 
-
+  
 ### Implementation
-For Software:
+
 # Installation
 pip install -r requirements.txt
 
@@ -43,7 +42,7 @@ pip install -r requirements.txt
 python app.py 
 
 ### Project Documentation
-For Software:
+
 
 # Screenshots 1
 ![WhatsApp Image 2025-08-09 at 04 27 35_2cfbeeca](https://github.com/user-attachments/assets/f4b4c59c-6643-40f6-ae22-c7e49c730501)
