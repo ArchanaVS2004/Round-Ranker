@@ -18,16 +18,16 @@ The Chappathi Roundness Meter analyzes an uploaded photo of a chappathi to measu
 
 
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### The Problem
+Making perfectly round chappathis is a skill that requires practice. Beginners often struggle with uneven shapes, affecting not only the appearance but also the cooking consistency. Currently, there is no automated, fun, and interactive way to measure the roundness of chappathis.
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+### The Solution
+We propose a computer vision-based tool that measures roundness uses image processing to analyze the chappathi’s shape and calculates its circularity and provides gives humorous comments in Malayalam
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- Python,
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
