@@ -32,53 +32,25 @@ For Software:
 - [Libraries use
 - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
 ### Implementation
 For Software:
 # Installation
-[commands]
+pip install -r requirements.txt
 
 # Run
-[commands]
+python app.py 
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-"C:\Users\abhik_erk5cbo\OneDrive\Pictures\Screenshots\Screenshot (19).png"
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this show*
+![WhatsApp Image 2025-08-09 at 04 27 35_2cfbeeca](https://github.com/user-attachments/assets/f4b4c59c-6643-40f6-ae22-c7e49c730501)
+
+![Screenshot2](Add screenshot 2 here with proper name
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
