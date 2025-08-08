@@ -2,20 +2,21 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Chappathi meter 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: #include <avaratham.h>
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Archana V S - ICCSCEM, Injakundu
+- Member 2: Abhikrishnan V B - ICCSCEM, Injakundu
 
 ### Project Description
-[2-3 lines about what your project does]
+The Chappathi Roundness Meter analyzes an uploaded photo of a chappathi to measure how round it is using image processing. It then gives fun, culturally relevant comments in Malayalam based on the roundness score. This project combines technology with local flavor to entertain and help users improve their cooking skills.
+
+
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
