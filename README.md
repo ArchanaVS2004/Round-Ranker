@@ -43,13 +43,14 @@ python app.py
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-
+# Screenshots 1
 ![WhatsApp Image 2025-08-09 at 04 27 35_2cfbeeca](https://github.com/user-attachments/assets/f4b4c59c-6643-40f6-ae22-c7e49c730501)
 
-![Screenshot2](Add screenshot 2 here with proper name
+![Screenshot2]
+![WhatsApp Image 2025-08-09 at 04 27 53_549c0dd2](https://github.com/user-attachments/assets/85bc559f-937b-445b-8e9f-bce444232975)
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3]
+![WhatsApp Image 2025-08-09 at 04 28 00_22196333](https://github.com/user-attachments/assets/78fc8bb2-47ef-49a3-af13-c5335c32985a)
 
 
 ### Project Demo
