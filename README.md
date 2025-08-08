@@ -62,9 +62,8 @@ For Software:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- A: [Specific contributions]
-- [Name 2]: [Specific contributions]
-
+- Abhikrishnan V B: Frontend Development
+- Archana V S: Backend development
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
