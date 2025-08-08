@@ -55,11 +55,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1qT2zwrzIeKSp0IioVuWce8LdY9BEvOwM/view?usp=drive_link
 
 ## Team Contributions
 - Abhikrishnan V B: Frontend Development
