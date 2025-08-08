@@ -27,10 +27,12 @@ We propose a computer vision-based tool that measures roundness uses image proce
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Python,html.
+- Python,html,css.
+- Javascript
 - Flask
-- [Libraries use
-- [Tools used]
+- Opencv
+- VSCode
+- 
 
 ### Implementation
 For Software:
